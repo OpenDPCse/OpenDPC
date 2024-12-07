@@ -2,7 +2,7 @@
 
 # Framework
 <div align=center>
-<img src="https://github.com/opendpcse/opendpcse/blob/main/Framework.png">
+<img src="https://github.com/opendpcse/opendp/blob/main/Framework.png">
 </div>
 
 # Certified products
